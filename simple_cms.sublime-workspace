@@ -1,0 +1,870 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"admin_",
+				"admin_user_id"
+			],
+			[
+				"ad",
+				"admin_users"
+			],
+			[
+				"li",
+				"licai	link_to (controller, action, id)"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"re",
+				"returntype=\"boolean\"	returntype"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"structKey",
+				"structKeyList	fn. (cfscript)"
+			],
+			[
+				"sa",
+				"scAccessCode"
+			],
+			[
+				"student",
+				"student_parent_link"
+			],
+			[
+				"type",
+				"type=\"struct\"	type"
+			],
+			[
+				"add",
+				"addtoken=\"false\"	addtoken"
+			],
+			[
+				"co",
+				"collection	@collection"
+			],
+			[
+				"options",
+				"options_array"
+			],
+			[
+				"a",
+				"arrayPrepend	fn. (cfscript)"
+			],
+			[
+				"ADDR",
+				"ADDRESS_ERROR_UNKNOWN_SUBCLASS"
+			],
+			[
+				"address",
+				"address_type_id"
+			],
+			[
+				"address_",
+				"address_type_id"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"mysqli_connec",
+				"mysqli_connect_error"
+			],
+			[
+				"_addre",
+				"_address_type_id"
+			],
+			[
+				"addres",
+				"address_type_id"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"ADDRESS",
+				"ADDRESS_TYPES_RESIDENCE"
+			],
+			[
+				"_time",
+				"_time_created"
+			],
+			[
+				"proper",
+				"property_exists"
+			],
+			[
+				"protect",
+				"protected_property_name"
+			],
+			[
+				"pro",
+				"protected_property_name"
+			],
+			[
+				"_postal",
+				"_postal_code_guess"
+			],
+			[
+				"street",
+				"street_address_2"
+			],
+			[
+				"arr",
+				"arrayNew	fn. (cfscript)"
+			],
+			[
+				"ac",
+				"action=\"delete\"	action"
+			],
+			[
+				"structCo",
+				"structCount	fn. (cfscript)"
+			],
+			[
+				"ffcSea",
+				"ffcSeasonEnd"
+			],
+			[
+				"perm",
+				"permLookup"
+			],
+			[
+				"b",
+				"returntype=\"boolean\"	returntype"
+			],
+			[
+				"fil",
+				"field_applications"
+			],
+			[
+				"noDr",
+				"nodrop"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Scotts Work PC/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 1358,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/admin_user.rb",
+			"settings":
+			{
+				"buffer_size": 148,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/subject.rb",
+			"settings":
+			{
+				"buffer_size": 237,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/page.rb",
+			"settings":
+			{
+				"buffer_size": 141,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/section.rb",
+			"settings":
+			{
+				"buffer_size": 158,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "db/migrate/20130713040950_create_admin_user_pages_join.rb",
+			"settings":
+			{
+				"buffer_size": 264,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "db/migrate/20130713042241_create_section_edits.rb",
+			"settings":
+			{
+				"buffer_size": 288,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/section_edit.rb",
+			"settings":
+			{
+				"buffer_size": 147,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"snipp ",
+				"Snippet: loop { .. }"
+			],
+			[
+				"snipp #",
+				"Snippet: Add ‘# =>’ Marker"
+			],
+			[
+				"snippet hash",
+				"Snippet: Hash Pair — :key => \"value\""
+			],
+			[
+				"sni",
+				"Snippet: Hash Pair — :key => \"value\""
+			],
+			[
+				"user ",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Class"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"set syntax col",
+				"Set Syntax: ColdFusion Component"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Sites/simple_cms/app/models/user.rb",
+		"/C/Sites/simple_cms/app/controllers/demo_controller.rb",
+		"/C/Sites/simple_cms/app/views/demo/hello.html.erb",
+		"/C/Sites/simple_cms/app/views/demo/index.html.erb",
+		"/C/Sites/simple_cms/config/database.yml",
+		"/C/Sites/simple_cms/db/migrate/20130712043318_alter_users.rb",
+		"/C/Sites/simple_cms/db/migrate/20130712050322_create_subjects.rb",
+		"/C/Sites/simple_cms/db/migrate/20130712050332_create_pages.rb",
+		"/C/Sites/simple_cms/db/migrate/20130712050345_create_sections.rb",
+		"/C/Sites/simple_cms/db/migrate/20130712040141_create_users.rb",
+		"/C/Users/Scotts Work PC/AppData/Roaming/Sublime Text 2/Packages/Rails Related Files/Default (Windows).sublime-keymap",
+		"/C/Users/Scotts Work PC/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Scotts Work PC/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Scotts Work PC/AppData/Roaming/Sublime Text 2/Packages/User/OpenBrowser.py",
+		"/C/Users/Scotts Work PC/Desktop/Rails Info.txt",
+		"/C/DevKit/config.yml",
+		"/C/Ruby200-x64/devkit/config.yml",
+		"/C/Ruby200-x64/bin/pik_install",
+		"/C/ProgramData/MySQL/MySQL Server 5.6/data/ibdata1",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/views/detail/simpleAssignmentDetail.tpl",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/modules/data_helpers/commentBox.cfc",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/views/messages/messageAction.tpl",
+		"/Z/alldata/IES Cyberschool Core/cs2plugins/modules/data_helpers/commentBox.cfc",
+		"/Z/alldata/IES Cyberschool Connect/ajax/data_helpers/postComment.cfm",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/views/messages/inbox.tpl",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/modules/messages/messages.cfc",
+		"/Z/alldata/IES Cyberschool Core/index.cfm",
+		"/Z/alldata/CS2_Sites/_templates/_shared/commonFooter.cfm",
+		"/Z/alldata/CS2_Sites/_templates/_shared/_class_themes/site_template.cfm",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/modules/blog/blog.cfc",
+		"/Z/alldata/IES Cyberschool Connect/site_template.cfm",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/modules/pageLoader.cfc",
+		"/Z/alldata/IES Cyberschool Connect/site_auth.cfm",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/views/dashboard/frontpage.tpl",
+		"/Z/alldata/IES Cyberschool Connect/common/bootstrap/theme/spacelab2/bootstrap.css",
+		"/Z/alldata/IES Cyberschool Core/ajax/data_helpers/postComment.cfm",
+		"/Z/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/extra/httpd-vhosts.conf",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/modules/assignments/assignments.cfc",
+		"/Z/alldata/IES Cyberschool Core/cs2plugins/modules/assignments/assignments.cfc",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/views/messages/messageDetail.tpl",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/modules/news/news.cfc",
+		"/Z/alldata/IES Cyberschool Connect/common/js/authFunctions.js",
+		"/Z/alldata/IES Cyberschool Connect/ajax/auth/checkUsername.cfm",
+		"/Z/alldata/IES Cyberschool Connect/site_login.cfm",
+		"/Z/alldata/CS2_Sites/_templates/007/site_template.cfm",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/views/detail/simple.tpl",
+		"/Z/alldata/IES Cyberschool Core/cs2plugins/cs2_functions.cfc",
+		"/Z/alldata/IES Cyberschool Core/cs2plugins/views/lists/simple/simple.tpl",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/views/lists/PostList.tpl",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/views/lists/simple.tpl",
+		"/Z/alldata/IES Cyberschool Core/cs2plugins/cs2_commands.cfc",
+		"/Z/alldata/CS2_Sites/_templates/_shared/commonHeader.cfm",
+		"/Z/alldata/CS2_Sites/_templates/_shared/commonIncludes.cfm",
+		"/Z/alldata/IES Cyberschool Connect/common/css/site_layout.css",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/views/profile/settings.tpl",
+		"/Z/alldata/IES Cyberschool Connect/ajax/messages/getAddressBook.cfm",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/views/calendar/detail.tpl",
+		"/Z/alldata/IES Cyberschool Connect/ajax/messages/sendMail.cfm",
+		"/Z/alldata/IES Cyberschool Connect/ajax/messages/deleteMessages.cfm",
+		"/E/websites/Content Management/agritrax/js/canvasresize/canvasResize.js",
+		"/E/websites/Content Management/agritrax/js/canvasresize/jquery.html",
+		"/E/websites/Content Management/agritrax/js/canvasresize/zepto.min.js",
+		"/E/websites/Content Management/agritrax/js/canvasresize/uploader.php",
+		"/Z/alldata/IES Cyberschool Connect/inc_files/commonHeader.cfm",
+		"/Z/alldata/IES Cyberschool Connect/action/forum/addComment.cfm",
+		"/Z/alldata/IES Cyberschool Connect/common/select2/component.json",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/views/forum/topicDetail.tpl",
+		"/Z/alldata/IES Cyberschool Connect/inc_files/inc_top_nav.cfm",
+		"/Z/alldata/IES Cyberschool Connect/common/bootstrap/theme/spacelab/bootstrap.css",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/modules/profile/profile.cfc",
+		"/Z/alldata/IES Cyberschool Connect/index.cfm",
+		"/Z/alldata/IES Cyberschool Connect/inc_files/inc_left_nav.cfm",
+		"/Z/alldata/IES Cyberschool Connect/action/forum",
+		"/Z/alldata/IES Cyberschool Core/ajax/forum/createPost.cfm",
+		"/Z/alldata/IES Cyberschool Core/ajax/forum/createTopic.cfm",
+		"/Z/alldata/IES Cyberschool Connect/action/addComment.cfm",
+		"/E/websites/sencha/examples/device/app.json",
+		"/E/websites/sencha/examples/device/app/controller/Camera.js",
+		"/E/websites/sencha/examples/device/packager.json",
+		"/E/websites/sencha/examples/device/app.js",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/cs2_functions.cfc",
+		"/Z/alldata/IES Cyberschool Connect/cs2plugins/cs2_commands.cfc",
+		"/Z/alldata/IES Cyberschool Connect/common/css/icon_sheet.css",
+		"/Z/alldata/IES Cyberschool Connect/action/student/switchStudent.cfm",
+		"/Z/alldata/IES Cyberschool Connect/action/student/addStudent.cfm",
+		"/Z/alldata/IES Cyberschool Connect/action/student/addClass.cfm",
+		"/C/Users/Scotts Work PC/Dropbox/OfficeTime/OfficeTime Data (Daily AutoBackup).otd",
+		"/Z/alldata/IES Cyberschool Core/common/js/cyberschool/q/quickEditV1.8.js",
+		"/Z/alldata/IES Cyberschool Core/ajax/editor/getData.cfm",
+		"/Z/alldata/IES Cyberschool Core/Application.cfc",
+		"/Z/alldata/IES Cyberschool Connect/ajax/auth/checkAccessCode.cfm",
+		"/Z/alldata/IES Cyberschool Connect/action/class/addClass.cfm",
+		"/Z/alldata/IES Cyberschool Connect/common/js/baseFunctions.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/E/websites/Content Management/agritrax/modules/client_list/reports/dsp_product_order_list.cfm",
+		"/E/websites/Content Management/agritrax/modules/client_list/schedules/add_app_schedule.cfm",
+		"/E/websites/Content Management/agritrax/ajax/schedule/events.cfm",
+		"/E/websites/Content Management/agritrax/js/weekpicker.js",
+		"/E/websites/Content Management/agritrax/ajax/schedule/update_event.cfm",
+		"/E/websites/Content Management/agritrax/inc_files/header1.cfm",
+		"/E/websites/Content Management/agritrax/processWeatherData.cfm",
+		"/E/websites/Content Management/agritrax/ajax/schedule/delete_event.cfm",
+		"/E/websites/Content Management/agritrax/inc_files/header3.cfm",
+		"/E/websites/Content Management/agritrax/modules/client_list/schedules/qry_app_schedule.cfm",
+		"/C/Users/Scotts Work PC/Desktop/jonthornton-jquery-timepicker-ad6cd56/index.html",
+		"/E/websites/Content Management/agritrax/js/slate/slate.js",
+		"/E/websites/Content Management/agritrax/js/slate/slate.portlet.js",
+		"/E/websites/Content Management/agritrax/modules/client_list/reports/act_create_product_order.cfm",
+		"/E/websites/Content Management/agritrax/js/plugin.js",
+		"/E/websites/Content Management/agritrax/js/jquery/jquery.uniform.min.js",
+		"/E/websites/Content Management/agritrax/js/fullcalendar/fullcalendar.css",
+		"/C/Users/Scotts Work PC/Desktop/jonthornton-jquery-timepicker-ad6cd56/lib/base.js",
+		"/E/websites/Content Management/agritrax/js/weekpicker_old.js",
+		"/E/websites/Content Management/agritrax/index.cfm",
+		"/E/websites/Content Management/agritrax/application.cfm",
+		"/E/websites/Content Management/agritrax/inc_files/header2.cfm",
+		"/E/websites/Content Management/sandbox/index.php",
+		"/E/websites/Content Management/sandbox/class.Address.inc",
+		"/C/Users/Scotts Work PC/AppData/Roaming/Sublime Text 2/Packages/AutoPHPDollar/AutoPHPDollar.sublime-settings",
+		"/E/websites/Content Management/sandbox/demo.php",
+		"/E/websites/Content Management/sandbox/class.ExceptionAddress.inc",
+		"/E/websites/Content Management/sandbox/class.Model.inc",
+		"/E/websites/Content Management/sandbox/class.Database.inc",
+		"/E/websites/Content Management/sandbox/class.AddressResidence.inc",
+		"/E/websites/Content Management/sandbox/class.AddressBusiness.inc",
+		"/E/websites/Content Management/sandbox/class.AddressPark.inc",
+		"/C/Users/Scotts Work PC/AppData/Roaming/Sublime Text 2/Packages/AutoPHPDollar/package-metadata.json",
+		"/C/Users/Scotts Work PC/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"Z:\\alldata\\IES Cyberschool Core,*.cfc",
+			"Z:\\alldata\\IES Cyberschool Core\\cs2plugins,*.cfc",
+			"E:\\websites\\Content Management\\agritrax\\modules\\,*.cfc",
+			"E:\\websites\\Content Management\\agritrax\\modules",
+			"E:\\websites\\Content Management\\agritrax\\admin\\modules"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"allPermissions",
+			"variables",
+			"cs2.",
+			"core_sites",
+			"user_parent",
+			"pwd",
+			"myModal",
+			"accessCodeModal",
+			"showMapDirections",
+			"map",
+			"47cb2a",
+			"3cb521",
+			"4fd930",
+			"B9C1CD",
+			"3a5d83",
+			"4a76a6",
+			"436c98",
+			"d47500",
+			"ff9008",
+			"ee8505",
+			"DC9E10",
+			"ff9008",
+			"ee8c14",
+			"d47500",
+			"ff9c21",
+			"warning",
+			"6c737e",
+			"949aa3",
+			"cd0200",
+			"ff0301",
+			"danger",
+			"0087c4",
+			"0099dd",
+			"li.dropdown.open.active",
+			"request.currentUrl",
+			"periodPanel",
+			"items:[",
+			"title",
+			"this.contentTitle",
+			"title",
+			"filterBtn",
+			"fliterBtn",
+			"getStudentAccessCode",
+			"cs2",
+			"live",
+			"uniform",
+			"info",
+			"setAddressTypeId",
+			"fieldBudgetItems",
+			"crop",
+			"key",
+			"appendKey",
+			"pieLabelPos",
+			"colors",
+			"!listContains(\"1,8\"",
+			"cross",
+			"plus",
+			",\"",
+			" ",
+			";",
+			"\\s+",
+			" ",
+			"fluid_ounce",
+			"hiddenStyle",
+			"fieldAcreSum",
+			"bottomborder",
+			"cfoutput",
+			"cfsavecontent",
+			"Index",
+			"anchor",
+			"btn-link",
+			"tab",
+			"btn-link",
+			"btn-link ",
+			"faType",
+			"fluid_ounce",
+			"ApplyUnits",
+			"selectgroups",
+			"selector",
+			"harvestQty",
+			"harvest",
+			"seperator",
+			"console",
+			"ffaiApplicationDate",
+			"harvest",
+			"application",
+			"serialize",
+			"irrigationQty",
+			"drag",
+			"date",
+			"F:/",
+			"/httpd-2.2-x64"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"3EBB23",
+			"30B414",
+			"6FD05A",
+			"C7C9CD",
+			"101010",
+			"4D4D4D",
+			"4F5152",
+			"D5A200",
+			"FFD508",
+			"EEAF05",
+			"EEBE05",
+			"FFCD08",
+			"EEBE05",
+			"DC9E10",
+			"FFC132",
+			"8791A0",
+			"B9C1CD",
+			"E81F1F",
+			"FF5E5E",
+			"0477D5",
+			"0B91FE",
+			"cUrl",
+			"on",
+			"\"",
+			",",
+			";\\r\\n",
+			"\\r\\n",
+			"\\n",
+			" ",
+			",",
+			"E:/",
+			"C:/Apache"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Scotts Work PC/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 1358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/models/admin_user.rb",
+					"settings":
+					{
+						"buffer_size": 148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/models/subject.rb",
+					"settings":
+					{
+						"buffer_size": 237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/models/page.rb",
+					"settings":
+					{
+						"buffer_size": 141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								134,
+								134
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/models/section.rb",
+					"settings":
+					{
+						"buffer_size": 158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "db/migrate/20130713040950_create_admin_user_pages_join.rb",
+					"settings":
+					{
+						"buffer_size": 264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "db/migrate/20130713042241_create_section_edits.rb",
+					"settings":
+					{
+						"buffer_size": 288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/models/section_edit.rb",
+					"settings":
+					{
+						"buffer_size": 147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.phpdocumentor":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index.cfm",
+				"admin/index.cfm"
+			],
+			[
+				"getbud",
+				"admin/modules/crop_budgets/getBudgetTypes.cfm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true
+}
